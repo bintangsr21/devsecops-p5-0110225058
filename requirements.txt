@@ -1,0 +1,2 @@
+# Aplikasi hanya memakai standard library Python
+bandit==1.7.9
